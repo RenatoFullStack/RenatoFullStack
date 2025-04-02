@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Renato, tenho 33 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR. Amo tecnologia e programação, desde pequeno sempre fui apaxonado por jogos e tecnologia. estudo programação a mais de 3 anos. ultimamente venho desenvolvendo games em C# na engine Unity e sites com JAVASCRIPT, HTML e CSS.
+Me chamo João Renato, tenho 33 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR. Amo tecnologia e programação, desde pequeno sempre fui apaxonado por jogos e tecnologia. estudo programação há mais de 3 anos. ultimamente venho desenvolvendo games em C# na engine Unity e sites com JAVASCRIPT, HTML e CSS.
 
 
 ---
